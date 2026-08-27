@@ -1,0 +1,13 @@
+site_name: My Physics & Engineering Portfolio
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+
+nav:
+  - Home: index.md
+  - Projects: 
+      - Airfoil CFD: projects/airfoil.md
+  - Build Logs: 
+      - Learning CAD: logs/cad.md
