@@ -1,4 +1,4 @@
-site_name: My Physics & Engineering Portfolio
+site_name: Portfolio - Bruno Slezak
 theme:
   name: material
   palette:
@@ -7,5 +7,3 @@ theme:
 
 nav:
   - Home: index.md
-  - Projects:
-  - Build Logs:
